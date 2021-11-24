@@ -87,6 +87,7 @@
     width: 500px;
     color: #024e76;
     position: absolute;
+   
     bottom: 120px;
     right: 140px;
   }
@@ -178,15 +179,6 @@
     border-color: #39a6b2;
   }
 
-  /* remove this entire CSS rule */
-.intro h2 {
-
-}
-
-  /* and this one */
-.steps h2 {
-
-}
 
 .steps div {
     margin-bottom: 80px;
@@ -307,12 +299,7 @@
   
   /* REACH OUT STYLES END */
 
-  .hero {
-    background-position: bottom;
-    height: auto;
-    text-align: center;
-    margin-bottom: 40px;
-  }
+ 
   
   .page-title {
     color: #fce138;
