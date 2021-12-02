@@ -95,6 +95,11 @@ section {
   color: #fff;
   font-size: 18px;
   line-height: 1.2;
+  text-align: center;
+}
+.hero-cta,
+.hero-form {
+  width: 100%;
 }
 
 .hero-cta h2 {
